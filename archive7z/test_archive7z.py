@@ -1,8 +1,8 @@
 from checkers import checkout, getout
 
-folder_in = "/home/artanetz/tst"
-folder_out = "/home/artanetz/folder_out"
-folder_ext = "/home/artanetz/folder1"
+folder_in = "/home/user/tst"
+folder_out = "/home/user/folder_out"
+folder_ext = "/home/user/folder1"
 
 
 def test_step1():
