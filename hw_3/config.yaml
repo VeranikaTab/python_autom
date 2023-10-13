@@ -1,6 +1,6 @@
-folder_in: /home/user/folder_in
+folder_in: /home/user/tst
 folder_out: /home/user/folder_out
-folder_ext: /home/user/folder_ext
+folder_ext: /home/user/folder1
 folder_ext2: /home/user/folder_ext2
 count: 3
 bs: 1M
